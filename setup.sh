@@ -3,7 +3,7 @@ pip install livelossplot --quiet
 pip install tqdm --quiet
 pip install gdown --quiet
 
-gdown https://drive.google.com/uc?id=1xnK3B6K6KekDI55vwJ0vnc2IGoDga9cj
+gdown "https://drive.google.com/uc?id=1xnK3B6K6KekDI55vwJ0vnc2IGoDga9cj&confirm=t&uuid=b6a30522-aa16-4751-8563-d469073eeb3d"
 mkdir deepweeds
 mkdir deepweeds/images
 mv images.zip deepweeds/images/
